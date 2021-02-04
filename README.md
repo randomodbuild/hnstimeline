@@ -3,7 +3,7 @@ A simple timeline bounty for the Handshake (HNS) project, specifically as it rel
 
 This was actually my first ever HTML project (or coding project in general), hence it is quite rudimentary.
 
-Somebody else who was much more experienced got to it first, but I still learned a lot! Also, <a href="johnnywu/">Johnnywu<a> was kind and still sent me 100 HNS!
+Somebody else who was much more experienced got to it first, but I still learned a lot! Also, [Johnnywu](http://johnnywu/ "Johnnywu") was kind and still sent me 100 HNS!
 
 For those who don't know, Handshake aims to decentralize the DNS root zone file and store it on a blockchain. I find the project really interesting, and hope more people adopt it. 
 More info on Handshake can be found here: (https://learn.namebase.io/)
